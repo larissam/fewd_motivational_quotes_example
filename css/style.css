@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  font-family: 'Courgette', Arial, sans-serif;
+  text-align: center;
+  background-color: #DD5238;
+  color: white;
+  font-size: 100px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
